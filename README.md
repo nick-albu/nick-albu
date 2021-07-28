@@ -15,4 +15,3 @@ say I love my new job.
 - 💬 Ask me about anything!
 - 📫 How to reach me: nicolasmalbu@gmail.com, https://www.linkedin.com/in/nicolasalbu/
 - 😄 Pronouns: he/him
-- 🐶 Dog Dad Status: yes
