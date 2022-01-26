@@ -8,8 +8,8 @@ felt like I truly loved my work.
 Since I've made this swap I can confidently
 say I love my new job. 
 
-- 💹 I’m currently working on my portfolio.
-- 🌱 I’m currently learning advanced SCSS & animations. Next I'll be learning Auth/OAuth
+- 💹 I’m currently working as a TA at BrainStation.
+- 🌱 I’m currently learning MySQL and Jest. Next I'll be learning Auth/OAuth
 - 👯 I’m looking to collaborate on just about anything!
 - 🤔 I’m looking for help with finding an entry level development position.
 - 💬 Ask me about anything!
